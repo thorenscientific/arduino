@@ -1,0 +1,1 @@
+C:\avrgcc\bin\make doc
